@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/DrPlain/frontend-newsletter-signup)
-- Live Site URL: [Live site ](https://your-live-site-url.com)
+- Live Site URL: [Live site ](https://frontendio-newsletter-signup.netlify.app)
 
 ### Built with
 
