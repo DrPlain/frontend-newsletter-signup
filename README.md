@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- [Github](https://github.com/DrPlain/frontend-newsletter-signup)
-- [Live site ](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/DrPlain/frontend-newsletter-signup)
+- Live Site URL: [Live site ](https://your-live-site-url.com)
 
 ### Built with
 
