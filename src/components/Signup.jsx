@@ -6,14 +6,14 @@ import { BsCheckCircleFill } from "react-icons/bs";
 export default function Signup() {
   return (
     <div className="h-screen mx-auto text-[16px] md:bg-[#36384E] md:flex md:items-center">
-      <div className="flex items-center justify-center lg:w-[55%] md:w-[80%] md:mx-auto md:rounded-3xl md:bg-white">
-        <div className="md:px-12">
+      <div className="flex items-center justify-center xl:w-[60%] lg:w-[80%] md:w-[95%] md:mx-auto md:rounded-3xl md:bg-white">
+        <div className="md:pl-8 lg:px-8 md:py-8">
           <div>
             <div className="md:hidden">
               <img src={mobileImage} alt="" className="w-full" />
             </div>
-            <div className="p-4">
-              <h1 className="font-roboto font-bold text-4xl md:text-5xl py-4 text-[#242742]">
+            <div className="px-4">
+              <h1 className="font-roboto font-bold text-4xl lg:text-5xl py-4 text-[#242742]">
                 Stay updated!
               </h1>
               <p className="py-2 text-[#36384E]">
@@ -53,7 +53,7 @@ export default function Signup() {
             <SignupForm />
           </div>
         </div>
-        <div className="hidden md:flex p-4">
+        <div className="hidden md:flex md:p-4 lg:py-8">
           <img src={desktopImage} alt="" />
         </div>
       </div>

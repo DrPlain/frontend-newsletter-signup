@@ -59,7 +59,7 @@ export default function SignupForm() {
             required
           />
           <button
-            className="rounded-md text-white bg-[#242742] w-[100%] p-4"
+            className="rounded-md text-white bg-[#242742] w-[100%] p-4 hover:bg-gradient-to-r from-[#ef3426] to-[#FF6257]"
             onClick={handleSubmit}
           >
             Subscribe to monthly newsletter
