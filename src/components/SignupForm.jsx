@@ -35,10 +35,10 @@ export default function SignupForm() {
   };
   return (
     <div>
-      <form action="">
+      <form>
         <div className="flex flex-col mx-auto justify-center p-4">
           <label
-            htmlFor=""
+            htmlFor="email"
             className="py-2 font-bold text-sm text-[#242742] flex justify-between items-center"
           >
             Email address
@@ -46,6 +46,7 @@ export default function SignupForm() {
           </label>
 
           <input
+            id="email"
             type="text"
             name="email"
             value={formData.email}
